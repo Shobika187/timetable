@@ -39,11 +39,57 @@ Execute the program
          </tr>
           <tr>
              <td>MONDAY</td>
-             <td>Accounts</td>
-             <td>English</td>
-             <td>Statistics</td>
+             <td>19EY701 Anbukani</td>
+             <td>19EY701 Anbukani</td>
+             <td>19AI301C Jaba jasbin</td>
+             <td>19AI301C Jaba jasbin</td>
+             
+            <td>19MA220 Jaba jasbin</td>
+             <td>19MA220 Jaba jasbin </td>
+             </tr>
+             <tr>
+             <td>TUESDAY</td>
+             <td>19AI401 Karthi Govindaraju</td>
+             <td>19AI401 Karthick Govindaraju</td>
+             <td>19AI303 Sridhar</td>
+             <td>19AI303 Sridhar</td>
+             <td>19AI302 Sridhar</td>
+             <td>19AI302 Sridhar</td>
+             </tr>>
+             <tr>
+          
+             <td>WEDNESDAY</td>
+             <td>19AI401 Karthi Govindaraju</td>
+              <td>19AI401 Karthi Govindaraju</td>
+             <td>19AI301 Jaba jasbin</td>
+             <td>19AI301 Jaba jasbin</td>
+             </tr>
+             <tr>
+            <td>THURSDAY</td>
+             <td>19AI303 Sridhar</td>
+             <td>19AI303 Sridhar</td>
+             <td>19AI404 Jaba jasbin</td>
+             <td>19AI404 Jaba jasbin</td>
+             </tr>
+             <tr>
+              <td>FRIDAY</td>
+             <td> 19AI404 Karthi Govindaraju</td>
+             <td>19AI401 karthi govindaraju </td>
+             <td>19AI301C Jaba jasbin</td>
+             td>19AI301C Jaba jasbin</td>
              <td>Banking</td>
              <td align="center">-</td>
+             <td align="center">EP</td>
+             <td align="center">-</td>
+             <td align="center">EP</td>
+             <td></td>
+             <td>Banking</td>
+             <td align="center">-</td>
+             <td align="center">EP</td>
+             <td align="center">-</td>
+             <td align="center">EP</td>
+             
+             <td align="centre">-</td>
              <td align="center">EP</td>
          </tr>
   
@@ -56,3 +102,5 @@ Execute the program
 
 ~~~
 # OUPUT
+![GitHub Logo](.//logo.png)
+![GitHub Logo](.//timepic.png)
